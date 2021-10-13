@@ -8,8 +8,8 @@ Langkah Pertama :
 
 2. Salin Frame Work Css di bawah ini !!
 
- <link rel="stylesheet" href="style.buttonanimation.css" />
+ . <link rel="stylesheet" href="style.buttonanimation.css" />
  
 4. Untuk Melihat Contoh Buttonnya Bisa Klik Link Di Bawah Ini !! 
 
- https://luckyindraefendi.github.io/Button-Animation/
+     https://luckyindraefendi.github.io/Button-Animation/
