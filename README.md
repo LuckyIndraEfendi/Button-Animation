@@ -10,4 +10,5 @@ Langkah Pertama :
      https://luckyindraefendi.github.io/Button-Animation/
      
 3. Salin Frame Work di bawah ini ke HTML kalian !!  
- link rel="stylesheet" href="style.buttonanimation.css" />   
+
+ < link rel="stylesheet" href="style.buttonanimation.css" />   
